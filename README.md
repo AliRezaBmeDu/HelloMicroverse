@@ -1,35 +1,7 @@
 # HelloMicroverse
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
 
   <h3><b>Hello Micoverse Project</b></h3>
 
@@ -73,7 +45,7 @@ After you're finished please remove all the comments and instructions!
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
-  <summary>HTML file contains the h1 element which displays the "HELLO MICROVERSE"</summary>
+  <summary>HTML file contains a h1 element which displays the words "HELLO MICROVERSE"</summary>
 </details>
 
 <details>
@@ -83,12 +55,22 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **ADD linter for html and css**
+- **A linter for html and css**
 - **A gitignore file**
+- **A HTML and A CSS File**
 
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link](https://google.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -107,6 +89,9 @@ Example command:
  gem install rails
 ```
  -->
+ ```sh
+  npm init -y
+```
 
 ### Setup
 
@@ -137,11 +122,19 @@ Example command:
   gem install
 ```
 --->
+```sh
+  cd my-project
+  npm install --save-dev hint@7.x
+  npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+```
 
 ### Usage
 
 To run the project, execute the following command:
 
+```sh
+  start index.html
+```
 <!--
 Example command:
 
@@ -149,6 +142,35 @@ Example command:
   rails server
 ```
 --->
+
+### Run tests
+
+To run tests, run the following command:
+
+```sh
+  npx stylelint "**/*.{css,scss}"
+```
+<!--
+Example command:
+
+```sh
+  start index.html
+```
+--->
+
+### Deployment
+
+You can deploy this project using:
+
+<!--
+Example:
+
+```sh
+
+```
+ -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
