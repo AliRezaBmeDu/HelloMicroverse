@@ -1,5 +1,7 @@
 # dependencies
-/node_modules
+node_modules
 
-#text.md flie
-text.md
+#test.md flie
+test.md
+
+hint-report
