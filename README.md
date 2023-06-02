@@ -122,10 +122,10 @@ This project can be deployed by using the github pages and other web plaform.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Any Website written in HTML and CSS**
-- [ ] **Full Responsive Mobile Version of the website**
-- [ ] **Full Responsive Desktop Version of the website**
-- [ ] **Interactive Chat bot**
+- **Any Website written in HTML and CSS**
+- **Full Responsive Mobile Version of the website**
+- **Full Responsive Desktop Version of the website**
+- **Interactive Chat bot**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
