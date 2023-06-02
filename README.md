@@ -1,11 +1,4 @@
-# HelloMicroverse
 <a name="readme-top"></a>
-
-<div align="center">
-
-  <h3><b>Hello Micoverse Project</b></h3>
-
-</div>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -28,8 +21,8 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
+
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -40,17 +33,23 @@
 
 ## 🛠 Built With <a name="built-with"></a>
 
-### HTML and CSS <a name="html"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
+### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>HTML file contains a h1 element which displays the words "HELLO MICROVERSE"</summary>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://html.com/html5/">
+      HTML
+      </a>
+    </li>
+    <li><a href="https://css3.com">
+      CSS
+      </a>
+    </li>
+  </ul>
 </details>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<details>
-  <summary>CSS file added to design the elements of html file.</summary>
-</details>
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
@@ -62,15 +61,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -82,138 +72,95 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
- ```sh
-  npm init -y
-```
-
 ### Setup
 
 Clone this repository to your desired folder:
 
-```sh
-  cd my-folder
-  git clone https://github.com/AliRezaBmeDu/HelloMicroverse.git
-```
-<!--
-Example commands:
+https://github.com/AliRezaBmeDu/HelloMicroverse
 
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
 
 ### Install
 
-Install this project with:
-
-<!--
-Example command:
+Install this project with: 
 
 ```sh
-  cd my-project
-  gem install
-```
---->
-```sh
-  cd my-project
-  npm install --save-dev hint@7.x
-  npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+  cd Portfolio-Website
+  npm install
 ```
 
 ### Usage
 
 To run the project, execute the following command:
 
-```sh
-  start index.html
-```
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
+> npm install
 
 ### Run tests
 
-To run tests, run the following command:
+> npx hint . 
 
-```sh
-  npx stylelint "**/*.{css,scss}"
-```
-<!--
-Example command:
-
-```sh
-  start index.html
-```
---->
+> npx stylelint "**/*.{css,scss}" 
 
 ### Deployment
 
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
+This project can be deployed by using the github pages and other web plaform.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Mohammad Ali Reza**
 
 - GitHub: [@githubhandle](https://github.com/AliRezaBmeDu)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohammad-ali-reza-389717102)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohammad-ali-reza-389717102/)
 
-👤
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Any Website written in HTML and CSS**
+- [ ] **Full Responsive Mobile Version of the website**
+- [ ] **Full Responsive Desktop Version of the website**
+- [ ] **Interactive Chat bot**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/AliRezaBmeDu/HelloMicroverse/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project please give it a ⭐️  
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+All documents provided by Microverse.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- LICENSE -->
 
-## 📝 License <a name="license">MIT License
+## 📝 License <a name="license"></a>
 
-Copyright (c) [2023] [Mohammad Ali Reza]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.</a>
-
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
